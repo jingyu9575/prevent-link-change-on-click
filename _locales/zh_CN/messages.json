@@ -1,0 +1,8 @@
+{
+	"extensionName": {
+		"message": "阻止链接点击时改变"
+	},
+	"extensionDescription": {
+		"message": "阻止网站在用户点击链接时改变它的地址。"
+	}
+}

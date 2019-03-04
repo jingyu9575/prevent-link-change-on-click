@@ -1,0 +1,8 @@
+{
+	"extensionName": {
+		"message": "Prevent Link Change On Click"
+	},
+	"extensionDescription": {
+		"message": "Prevent websites from changing the addresses of links when the user clicks them."
+	}
+}
