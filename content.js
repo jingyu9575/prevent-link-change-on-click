@@ -4,7 +4,8 @@ window.eval('void (' + function () {
 		set: function (value) {
 			if (window.event && window.event.constructor.name === 'MouseEvent') {
 				const { type } = window.event
-				if (type === 'mousedown' || type === 'mouseup' || type === 'click') return
+				if ((type === 'mousedown' || type === 'mouseup' || type === 'click') &&
+					this.href) return
 			}
 			return desc.set.call(this, value)
 		}

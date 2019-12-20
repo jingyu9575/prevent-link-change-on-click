@@ -7,7 +7,7 @@
 		}
 	},
 	"name": "__MSG_extensionName__",
-	"version": "0.2",
+	"version": "0.3",
 	"description": "__MSG_extensionDescription__",
 	"permissions": [
 		"<all_urls>"
